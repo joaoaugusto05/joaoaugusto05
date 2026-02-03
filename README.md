@@ -49,12 +49,21 @@ Data Engineer working remotely for a US-based company in the AI vertical. Curren
 
 ---
 
-### 💻 Recent Focus
+### 🚀 Key Projects & Achievements
 
-- Building and optimizing ETL pipelines at scale
-- Working with Databricks and Apache Spark
-- Implementing data quality frameworks
-- Exploring Delta Lake architecture patterns
+**Data Platform & Infrastructure**
+- Built near real-time data delivery pipeline using Spark Structured Streaming with medallion architecture
+- Developed internal data platform to automate engineering requests (table updates, process validation, image builds)
+- Maintained production Kubernetes environment with ArgoCD managing Airflow workflows
+
+**AI & Machine Learning**
+- Created LLM-based categorization framework for one of the highest ROI projects on the team
+- Implemented advanced prompt engineering and model integration patterns
+
+**Performance & Observability**
+- Deep Spark query optimization through detailed execution plan analysis
+- Established monitoring and observability infrastructure using Grafana
+- Performance tuning of terabyte-scale data processing jobs
 
 ---
 
