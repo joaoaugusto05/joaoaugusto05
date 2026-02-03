@@ -52,12 +52,16 @@ Data Engineer working remotely for a US-based company in the AI vertical. Curren
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaugusto05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugusto05&layout=compact&langs_count=8&theme=tokyonight"/>
+
+![](https://github-readme-stats.vercel.app/api?username=joaoaugusto05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaugusto05&layout=compact&langs_count=8&theme=tokyonight)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaoaugusto05&theme=tokyonight" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaoaugusto05&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ---
